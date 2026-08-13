@@ -1,11 +1,9 @@
 # Hi there, I'm Erick 👋
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **[Seu Projeto Atual]**
-- 🌱 Learning **[Tecnologia que está estudando]**
-- 👯 Looking to collaborate on **[Tipo de projeto, ex: Open Source, Web Dev]**
-- 💬 Ask me about **[Suas principais habilidades]**
-- ⚡ Fun fact: **[Um fato curioso sobre você]**
+### 👨‍💻 Sobre mim
+- 🌱 Aprendendo **Html e Css**
+- 💬 Pergunte sobre mim  **Html e Css**
+- ⚡ Fato curioso: **Adoro carros**
 
 ---
 
@@ -21,7 +19,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Tools:**
-![Git](https://img.shields.io/badge/GIT-E44D27?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---

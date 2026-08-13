@@ -1,4 +1,4 @@
-# Hi there, I'm Erick 👋
+# Olá, eu sou Erick 👋
 
 ### 👨‍💻 Sobre mim
 - 🌱 Aprendendo **Html e Css**
@@ -43,7 +43,7 @@
 </a>
 <a href="https://instagram.com/SEU-PERFIL" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>## Hi there 👋
+</a>## Olá 👋
 
 <!--
 **erickdasilva0506-code/erickdasilva0506-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-# Hi there, I'm [Seu Nome] 👋
+# Hi there, I'm Erick 👋
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **[Seu Projeto Atual]**
